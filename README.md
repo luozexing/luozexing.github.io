@@ -19,4 +19,4 @@
 - 粉丝列表与详情
 - 关注人列表与详情
 
-页面访问地址：http://task.jswalk.com/vblog-gridsome
+页面访问地址：https://luozexing.github.io/
