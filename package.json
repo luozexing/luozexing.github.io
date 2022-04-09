@@ -13,7 +13,7 @@
     "gridsome": "^0.7.0",
     "js-base64": "^3.6.0",
     "markdown-it": "^12.0.2",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "normalize.css": "^8.0.1"
   }
 }
